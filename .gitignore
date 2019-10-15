@@ -1,0 +1,14 @@
+# Ignore vscode config file
+.vscode/
+
+# Ignore jupyter notebook checkpoint dir
+.ipynb_checkpoints/
+
+# Ignore pdf documents
+*.pdf
+
+# Ignore zip files
+*.zip
+
+# Ignore Draft notebooks
+Untitled.ipynb
